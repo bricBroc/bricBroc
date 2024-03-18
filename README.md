@@ -1,4 +1,4 @@
-# Hello, I'm Alex  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Alex  <a href="https://linkedin.com/in/niampa-alex-5b04861b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👋 Welcome to my GitHub profile!
 - I'm a computer science graduate with a passion for technology and a relentless drive to learn new things.
@@ -24,15 +24,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Technologies
 
-Here are some of the tools and technologies I have experience with:
+Here are some technologies I have experience with:
 
-- **Programming Languages:** Python, JavaScript, Java
-- **Web Development:** HTML, CSS, React.js, Node.js
-- **Database:** SQL, MongoDB
+- **Programming Languages:** Python, Java
+- **Web Development:** HTML, CSS, PHP, Node.js, JavaScript
+- **Database:** SQL
 - **Version Control:** Git, GitHub
 - **IDEs/Editors:** Visual Studio Code, IntelliJ IDEA
 - **Operating Systems:** Windows, Linux
-- **Other:** Docker, Jupyter Notebook, AWS
+- **Other:** Jupyter Notebook, AWS
 
 
 ## Tools
@@ -68,11 +68,11 @@ Here are some of the tools and technologies I have experience with:
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+
 ## Get in Touch
 - LinkedIn: [LinkedIn profile URL]
 - X (Twitter): [Twitter handle]
 - Email: [email address]
-
-## Projects
-- Detection Lab
-- SOC Automation Project
