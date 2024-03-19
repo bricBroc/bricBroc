@@ -1,4 +1,4 @@
-# Hello, I'm Alex  <a href="https://linkedin.com/in/niampa-alex-5b04861b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Alex  <a href="https://linkedin.com/in/niampa-alex-5b04861b0/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👋 Welcome to my GitHub profile!
 - I'm a computer science graduate with a passion for technology and a relentless drive to learn new things.
@@ -75,4 +75,7 @@ Here are some technologies I have experience with:
 ## Get in Touch
 - LinkedIn: [LinkedIn profile URL]
 - X (Twitter): [Twitter handle]
-- Email: [email address]
+  
+- Email:
+  <a href="mailto:alexniampa.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/> </a>
+
